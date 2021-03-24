@@ -1,13 +1,13 @@
 # Shoot a Shark
 
 # Overview
-A fun game that is created in HTML, CSS, Javascript. The logic of the game is similar to warfare game, but I used "Under the sea" theme, which has "Under The Sea" background, submarine as a Player and shark as an Enemy. Player needs to shoot a shark before the shark hits submarine. I picked up this game because it's animated, and i find it easy and fun to play.  
+A fun game that is created in HTML, CSS, Javascript. It is a shooting game, I used "Under the sea" theme, which has "Under The Sea" background, submarine as a Player and shark as an Enemy. Player needs to shoot a shark before the shark hits submarine. I picked up this game because it's animated, and i find it easy and fun to play.  
 
 # Game rules
 
- - Submarine("Player) should shoot a shark ("Enemy") that is appearing and swimming towards the Player. 
+ - Submarine ("Player") should shoot a shark ("Enemy") that is appearing and swimming towards the Player. 
 - Player should use keyboard letters to be able to move up and down the screen, keyboard letters are: "s" for UP and "w" for DOWN.
--If the bullet hits shark, shark will explode and dissapear, and then other shark will appear.
+- If the bullet hits shark, shark will explode and dissapear, and then other shark will appear.
 - Player has 3 lives, if the Enemy reaches Player, then the Player will loose 1 life out of 3, and if the Enemy hits 3 times, then the Player looses the game.
 - Player is in a winning position as long as he has lives.
 
